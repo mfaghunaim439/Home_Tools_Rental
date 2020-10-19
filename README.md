@@ -5,3 +5,4 @@ Edit Log:<br />
 - Mohammed Ghunaim - 10/15/2020 - updated section 1.5. <br />
 - Mohammed Ghunaim - 10/20/2020 - updated section 3.2. <br />
 - Abdulmalik ALsheddi - 10/20/2020 - updated section 3.2. <br />
+- Abdulaziz Alothman - 10/20/2020 - updated section 2.1 and 2.2 and 2.3. <br />
