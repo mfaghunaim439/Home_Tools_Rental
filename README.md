@@ -7,3 +7,4 @@ Edit Log:<br />
 - Abdulmalik ALsheddi - 10/20/2020 - updated section 3.2. <br />
 - Abdulaziz Alothman - 10/20/2020 - updated section 2.1 and 2.2 and 2.3. <br />
 - Abdulmalik ALsheddi - 10/20/2020 - organised sections 2.1 and 2.2 and 2.3. <br />
+- Abdulmalik ALsheddi - 10/20/2020 - updated section 3.3. <br />
