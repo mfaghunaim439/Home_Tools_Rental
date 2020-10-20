@@ -11,3 +11,5 @@ Edit Log:<br />
 - Abdulaziz Albarrak - 10/20/2020 - updated section 2.4 , 2.5 <br />
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 3.1. <br />
 - Abdulmalik ALsheddi - 10/21/2020 - finished section 3. <br />
+- Abdulaziz Alothman - 10/21/2020 - updated section 1.5. <br />
+
