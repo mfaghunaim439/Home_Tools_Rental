@@ -21,4 +21,4 @@ PHASE01 (SRS):
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 5. <br />
 
 PHASE02 (DD):<br />
-- Abdulmalik ALsheddi - 110/9/2020 - finshed making an empty layout for the whole doucment. <br />
+- Abdulmalik ALsheddi - 11/9/2020 - finshed making an empty layout for the whole doucment. <br />
