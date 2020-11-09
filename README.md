@@ -1,6 +1,7 @@
 # Home_Tools_Rental
 Software Engineering Project<br />
 Edit Log:<br />
+PHASE01 (SRS):<br />
 - Mohammed Ghunaim - 10/11/2020 - updated section 1.1 and 1.2. <br />
 - Mohammed Ghunaim - 10/15/2020 - updated section 1.5. <br />
 - Mohammed Ghunaim - 10/20/2020 - updated section 3.2. <br />
@@ -17,3 +18,6 @@ Edit Log:<br />
 - Abdulmalik ALsheddi - 10/21/2020 - organised sections 1.4 and 1.5 and 2. <br />
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 4. <br />
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 5. <br />
+<br />
+PHASE02 (DD):<br />
+- Abdulmalik ALsheddi - 110/9/2020 - finshed making an empty layout for the whole doucment. <br />
