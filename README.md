@@ -30,4 +30,4 @@ PHASE02 (DD):<br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing the "Search" page and the "Side\Quick menu". <br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed section 3. <br />
 - Abdulaziz Alothman - 11/14/2020 - finshed abstract. <br />
-- Abdulmalik ALsheddi - 11/14/2020 - finished section 2. <br />
+- Abdulaziz Albarrak - 11/14/2020 - finished section 2. <br />
