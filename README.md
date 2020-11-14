@@ -25,3 +25,4 @@ PHASE02 (DD):<br />
 - Mohammed Ghunaim - 11/13/2020 - updated section 1 and 2.1. <br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing the login page and the register page. <br />
 - Mohammed Ghunaim - 11/14/2020 - updated section 5 <br />
+- Abdulmalik ALsheddi - 11/14/2020 - finshed designing the profile page and the offer creation page. <br />
