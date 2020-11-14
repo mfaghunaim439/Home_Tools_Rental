@@ -28,3 +28,4 @@ PHASE02 (DD):<br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing the "profile" page and the "offer creation" page. <br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing "Your offers" page and "Your rentals" page. <br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing the "Search" page and the "Side\Quick menu". <br />
+- Abdulmalik ALsheddi - 11/14/2020 - finshed section 3. <br />
