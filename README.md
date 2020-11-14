@@ -23,3 +23,4 @@ PHASE01 (SRS):
 PHASE02 (DD):<br />
 - Abdulmalik ALsheddi - 11/9/2020 - finshed making an empty layout for the whole doucment. <br />
 - Mohammed Ghunaim - 11/13/2020 - updated section 1 and 2.1. <br />
+- Abdulmalik ALsheddi - 11/14/2020 - finshed designing the login page and the register page. <br />
