@@ -1,6 +1,6 @@
 # Home_Tools_Rental
-Software Engineering Project<br />
-Edit Log:<br />
+Software Engineering Project <br />
+Edit Log: <br />
 
 PHASE01 (SRS):
 - Mohammed Ghunaim - 10/11/2020 - updated section 1.1 and 1.2. <br />
@@ -20,7 +20,7 @@ PHASE01 (SRS):
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 4. <br />
 - Abdulmalik ALsheddi - 10/21/2020 - updated section 5. <br />
 
-PHASE02 (DD):<br />
+PHASE02 (DD): <br />
 - Abdulmalik ALsheddi - 11/9/2020 - finshed making an empty layout for the whole doucment. <br />
 - Mohammed Ghunaim - 11/13/2020 - updated section 1 and 2.1. <br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed designing the "login" page and the "register" page. <br />
@@ -31,3 +31,6 @@ PHASE02 (DD):<br />
 - Abdulmalik ALsheddi - 11/14/2020 - finshed section 3. <br />
 - Abdulaziz Alothman - 11/14/2020 - finshed abstract. <br />
 - Abdulaziz Albarrak - 11/14/2020 - finished section 2. <br />
+
+PHASE03 (PD):<br />
+- Mohammed Ghunaim - 12/5/2020 - Organized and finished Presentation slides. <br />
